@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591356009547",
+    "project_id": "chat-strawti",
+    "storage_bucket": "chat-strawti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591356009547:android:019a3a3f1ff0640a4cc1ce",
+        "android_client_info": {
+          "package_name": "com.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591356009547-3e2nsbb15o6uliacdbmktq9a4rh33dbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AIAQQzKPd3xIVehkprAYt8gHQffPR7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591356009547-3e2nsbb15o6uliacdbmktq9a4rh33dbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591356009547-9dqvgnqaqtaon69ik8qtk40u7fr9h3bq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatStrawti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
